@@ -1,0 +1,39 @@
+#name{
+    display: inline-block;
+    border: 4px;
+    margin-left: 30%;
+    background-color: red;
+    color: snow;
+}
+.ques1{
+    border: 4px dashed red;
+    background-color: aqua;
+}
+.ques2{
+    border: 4px dashed black;
+    background-color: rgba(255, 0, 255, 0.505);
+}
+.ques3{
+    border: 4px dashed black;
+    background-color: rgba(255, 55, 0, 0.505);
+}
+.ques4{
+    border: 4px dashed black;
+    background-color: rgba(21, 255, 0, 0.505);
+}
+.ques5{
+    border: 4px dashed black;
+    background-color: rgba(0, 255, 251, 0.505);
+}
+.ques6{
+    border: 4px dashed black;
+    background-color: rgba(255, 0, 208, 0.582);
+}
+.ques7{
+    border: 4px dashed black;
+    background-color: rgba(111, 0, 255, 0.505);
+}
+.ques8{
+    border: 4px dashed black;
+    background-color: rgba(255, 0, 255, 0.505);
+}
